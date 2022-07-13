@@ -1,6 +1,6 @@
 ### Hello World
 
-I'm Adam, happy to have you stop by.  I am the Director of Enterprise Security at Contrast Security which covers Appsec/Product Security, Cloud Security and Security Operations.  However, I started my career as a developer so I have a deep passion for code and helping people learn how to write code (securely of course). 
+I'm Adam, happy to have you stop by.  I lead a Product Security team at AWS Security, which covers several of the major AWS products that I'm sure you use.  However, I started my career as a developer so I have a deep passion for code and helping people learn how to write code (securely of course). 
 
 ### Projects
 
